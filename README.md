@@ -25,4 +25,8 @@ pip install -r requirements.txt
 python manage.py runserver <br>
 ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
+# App Preview :
+![image](https://user-images.githubusercontent.com/67760549/173012387-74097a8d-ccf4-4ff9-a56c-f32f15a74b1e.png)
+
+
 
