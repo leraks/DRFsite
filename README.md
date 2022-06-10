@@ -22,7 +22,7 @@ pip install -r requirements.txt
 # Running the App
 --> To run the App, we use :
 
-python manage.py runserver
+python manage.py runserver <br>
 ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
 
