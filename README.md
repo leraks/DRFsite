@@ -19,7 +19,7 @@ envname\scripts\activate
 
 pip install -r requirements.txt
 
-unning the App
+#Running the App
 --> To run the App, we use :
 
 python manage.py runserver
